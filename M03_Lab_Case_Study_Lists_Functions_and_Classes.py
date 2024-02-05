@@ -1,3 +1,7 @@
+#Cristian Escobedo
+#M03_Lab_Case_Study_Lists_Functions_and_Classes.py version 1.7
+#this program accepts inputs in the form details for the object Automobile then prints the information in an organized manner
+
 class Vehicle:
     def __init__(self, vehicle):
         self.vehicle = vehicle
